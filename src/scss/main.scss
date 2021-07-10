@@ -14,7 +14,6 @@
   .to-do-list-container {
     margin: auto;
     width: 90%;
-    height: 600px;
     @include media-breakpoint-between(sm, md) {
       width: 80%;
     }
@@ -138,7 +137,7 @@
 
         .task-deadline {
           @include font-size(0.7rem);
-          color: shade-color(white, 15%);
+          color: shade-color(white, 70%);
         }
       }
 

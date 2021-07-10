@@ -10760,7 +10760,6 @@ textarea.form-control-lg {
 .main-bg .to-do-list-container {
   margin: auto;
   width: 90%;
-  height: 600px;
   border-radius: 30px;
   background: linear-gradient(45deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.4) 100%);
   border-top: 2px solid rgba(255, 255, 255, 0.4);
@@ -10868,7 +10867,7 @@ textarea.form-control-lg {
 }
 .main-bg .to-do-list-container .tasks-section .task .task-deadline {
   font-size: 0.7rem;
-  color: #d9d9d9;
+  color: #4d4d4d;
 }
 .main-bg .to-do-list-container .tasks-section .task-done {
   background: linear-gradient(45deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0.9) 100%) !important;
